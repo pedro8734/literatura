@@ -29,7 +29,7 @@ A través de un menú en consola, el usuario puede:
 
 ## 🏗️ Estructura del proyecto
 
-```text
+
 └── src
     └── main
         ├── java

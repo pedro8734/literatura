@@ -62,14 +62,15 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
     git clone https://github.com/pedro8734/literatura.git
 
     cd literatura
-    text```
+   
 
 2. Configura tu base de datos en src/main/resources/application.properties.
 
 3. Ejecuta el proyecto:
-
-./mvnw spring-boot:run
-4. Interactúa con el menú desde consola.
+     ```text
+    ./mvnw spring-boot:run
+   
+5. Interactúa con el menú desde consola.
 
 ## 🏗️ Estructura del proyecto
 

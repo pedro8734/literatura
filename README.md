@@ -67,14 +67,13 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 2. Configura tu base de datos en src/main/resources/application.properties.
 
 3. Ejecuta el proyecto:
-     ```text
-    ./mvnw spring-boot:run
+   ./mvnw spring-boot:run
    
-5. Interactúa con el menú desde consola.
+4. Interactúa con el menú desde consola.
 
 ## 🏗️ Estructura del proyecto
 
-```text
+ ```text
 └── src
     └── main
         ├── java

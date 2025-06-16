@@ -27,6 +27,30 @@ A través de un menú en consola, el usuario puede:
 - **API externa:** [Gutendex](https://gutendex.com/)
 - **Librerías y herramientas:** Jackson, Maven, Git
 
+  🌍 API de libros - Gutendex
+La aplicación obtiene información de libros desde:
+https://gutendex.com/books/
+
+
+
+📂 Base de datos
+El sistema guarda y gestiona:
+
+Libros: título, número de descargas, idiomas
+Autores: nombre, fecha de nacimiento y fallecimiento
+Relación muchos a muchos entre libros y autores
+Relación muchos a muchos entre libros y idiomas
+
+DIAGRAMA ERD
+
+
+🙋‍♂️ Autor
+Proyecto creado por Pedro Montes
+Desarrollado como parte del programa de formación de Alura Latam
+
+📜 Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
 ## 🏗️ Estructura del proyecto
 
 ```text
@@ -58,27 +82,5 @@ cd literatura
 4. Interactúa con el menú desde consola.
 
 
-🌍 API de libros - Gutendex
-La aplicación obtiene información de libros desde:
-https://gutendex.com/books/
 
-
-
-📂 Base de datos
-El sistema guarda y gestiona:
-
-Libros: título, número de descargas, idiomas
-Autores: nombre, fecha de nacimiento y fallecimiento
-Relación muchos a muchos entre libros y autores
-Relación muchos a muchos entre libros y idiomas
-
-DIAGRAMA ERD
-
-
-🙋‍♂️ Autor
-Proyecto creado por Pedro Montes
-Desarrollado como parte del programa de formación de Alura Latam
-
-📜 Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 

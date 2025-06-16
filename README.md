@@ -39,10 +39,10 @@ https://gutendex.com/books/
 ## 📂 Base de datos
 El sistema guarda y gestiona:
 
-1.Libros: título, número de descargas, idiomas
-2.Autores: nombre, fecha de nacimiento y fallecimiento
-3.Relación muchos a muchos entre libros y autores
-4.Relación muchos a muchos entre libros y idiomas
+1. Libros: título, número de descargas, idiomas
+2. Autores: nombre, fecha de nacimiento y fallecimiento
+3. Relación muchos a muchos entre libros y autores
+4. Relación muchos a muchos entre libros y idiomas
 
 ## Diagrama ERD
 ![Texto alternativo](https://github.com/pedro8734/literatura/blob/131f248cd6cc80e28f0fac55bd618592799b8e5d/Diagrama.png)

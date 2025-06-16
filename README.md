@@ -27,7 +27,10 @@ A través de un menú en consola, el usuario puede:
 - **API externa:** [Gutendex](https://gutendex.com/)
 - **Librerías y herramientas:** Jackson, Maven, Git
 
-  🌍 API de libros - Gutendex
+
+
+
+🌍 API de libros - Gutendex
 La aplicación obtiene información de libros desde:
 https://gutendex.com/books/
 
@@ -42,7 +45,7 @@ Relación muchos a muchos entre libros y autores
 Relación muchos a muchos entre libros y idiomas
 
 DIAGRAMA ERD
-
+![Texto alternativo](URL de la imagen)
 
 🙋‍♂️ Autor
 Proyecto creado por Pedro Montes

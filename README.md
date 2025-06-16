@@ -54,6 +54,21 @@ Desarrollado como parte del programa de formación de Alura Latam
 ## 📜 Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
+## 📦 Instalación y ejecución
+
+1. Clona este repositorio:
+
+```bash
+git clone https://github.com/pedro8734/literatura.git
+cd literatura
+
+2. Configura tu base de datos en src/main/resources/application.properties.
+
+3. Ejecuta el proyecto:
+
+./mvnw spring-boot:run
+4. Interactúa con el menú desde consola.
+
 ## 🏗️ Estructura del proyecto
 
 ```text
@@ -69,20 +84,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
             └── application.properties ```
 
 
-## 📦 Instalación y ejecución
 
-1. Clona este repositorio:
-
-```bash
-git clone https://github.com/pedro8734/literatura.git
-cd literatura
-
-2. Configura tu base de datos en src/main/resources/application.properties.
-
-3. Ejecuta el proyecto:
-
-./mvnw spring-boot:run
-4. Interactúa con el menú desde consola.
 
 
 

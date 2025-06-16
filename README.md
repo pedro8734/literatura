@@ -59,9 +59,9 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 1. Clona este repositorio:
 
 
-git clone https://github.com/pedro8734/literatura.git
+   ```text git clone https://github.com/pedro8734/literatura.git
 
-cd literatura
+    cd literatura  text```
 
 2. Configura tu base de datos en src/main/resources/application.properties.
 

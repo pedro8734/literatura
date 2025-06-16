@@ -45,7 +45,7 @@ Relación muchos a muchos entre libros y autores
 Relación muchos a muchos entre libros y idiomas
 
 DIAGRAMA ERD
-![Texto alternativo](URL de la imagen)
+![Texto alternativo](Sin título.png)
 
 🙋‍♂️ Autor
 Proyecto creado por Pedro Montes

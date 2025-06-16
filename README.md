@@ -29,7 +29,7 @@ A través de un menú en consola, el usuario puede:
 
 ## 🏗️ Estructura del proyecto
 
-
+```text
 └── src
     └── main
         ├── java
@@ -39,7 +39,7 @@ A través de un menú en consola, el usuario puede:
         │       ├── repository         # Interfaces de repositorio JPA
         │       └── service            # Servicios de consumo de API y conversión de datos
         └── resources
-            └── application.properties
+            └── application.properties ```
 
 
 ## 📦 Instalación y ejecución

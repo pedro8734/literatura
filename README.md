@@ -30,13 +30,13 @@ A través de un menú en consola, el usuario puede:
 
 
 
-🌍 API de libros - Gutendex
+## 🌍 API de libros - Gutendex
 La aplicación obtiene información de libros desde:
 https://gutendex.com/books/
 
 
 
-📂 Base de datos
+## 📂 Base de datos
 El sistema guarda y gestiona:
 
 Libros: título, número de descargas, idiomas
@@ -44,14 +44,14 @@ Autores: nombre, fecha de nacimiento y fallecimiento
 Relación muchos a muchos entre libros y autores
 Relación muchos a muchos entre libros y idiomas
 
-DIAGRAMA ERD
-![Texto alternativo](Sin título.png)
+## Diagrama ERD
+![Texto alternativo](proyecto)
 
-🙋‍♂️ Autor
+## 🙋‍♂️ Autor
 Proyecto creado por Pedro Montes
 Desarrollado como parte del programa de formación de Alura Latam
 
-📜 Licencia
+## 📜 Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ## 🏗️ Estructura del proyecto
